@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-size: 1.5rem !important;
+  background-color: #eceeee;
+  background-image: linear-gradient(#edeaea, rgb(255, 255, 255));
+  padding-bottom: 2rem;
+}
+.card-img-top3 {
+  display: flex;
+}
+
+// VARIABLES
+$color-gral: rgb(168, 168, 168);
+$color-fondo: #eceeee;
+$encabezado: 1.5rem !important;
+$degradado: linear-gradient(#edeaea, rgb(255, 255, 255));
+$negrita: bold;
+
+$ancho: 600px;
+$alto: 400px;
+$tam-text: 0.5rem;
