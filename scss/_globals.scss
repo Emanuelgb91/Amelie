@@ -13,6 +13,21 @@ h5 a {
   color: white;
 }
 
+// MEDIAS QUERIES
+@media screen and (max-width: 1280px) {
+  .navbar__plegable {
+    display: none;
+  }
+  .logos__redes {
+    display: none;
+  }
+  .img__negocio {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+}
+
 // VARIABLES
 $color-gral: rgb(168, 168, 168);
 $color-fondo: #eceeee;
