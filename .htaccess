@@ -1,11 +1,2 @@
-ErrorDocument 404 https://amelieesteticaysalud.netlify.app/404.html
-
-<IfModule mod_rewrite.c>
-RewriteEngine on
-
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*)$ $1.html
-#RewriteRule ^([a-z]+)/?$ $1.html [NC]
-
-</IfModule>
+ErrorDocument 404 https://amelieesticaysalud.netlify.app/404.html
+ErrorDocument 404 https://emanuelgb91.github.io/Amelie/404.html

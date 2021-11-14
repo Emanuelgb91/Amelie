@@ -72,11 +72,9 @@ h5 a {
   background-color: white;
 }
 
-.htsm .btn__inicio {
-  list-style: none;
-  text-transform: none;
-  text-decoration: none;
-  color: black;
+.btn__inicio a {
+  color: white;
+  background-color: white;
 }
 
 /*# sourceMappingURL=styles.css.map */
