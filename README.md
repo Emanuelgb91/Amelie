@@ -1,4 +1,4 @@
-# <a href="https://github.com/Emanuelgb91/Amelie" target="_blank">Amelie</a>
+# Amelie
 
 <h1>
   <a href="https://github.com/Emanuelgb91/Amelie" target="_blank">Amelie</a>
