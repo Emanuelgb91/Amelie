@@ -73,8 +73,10 @@ h5 a {
 }
 
 .htsm .btn__inicio {
-  color: white;
+  list-style: none;
+  text-transform: none;
   text-decoration: none;
+  color: black;
 }
 
 /*# sourceMappingURL=styles.css.map */
