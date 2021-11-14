@@ -4,6 +4,10 @@ td a {
   transition: font-size 0.5s;
 }
 td a:hover {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: rgb(168, 168, 168);
+}
+
+.btn__agregar {
+  justify-content: right;
 }

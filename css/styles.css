@@ -5,8 +5,12 @@ td a {
 }
 
 td a:hover {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: #a8a8a8;
+}
+
+.btn__agregar {
+  justify-content: right;
 }
 
 h1,
@@ -39,13 +43,17 @@ h5 a {
     display: none;
   }
 }
+.NT__titulo {
+  margin-top: 5rem;
+}
+
 .nav li a.nav-link {
   color: black;
   transition: font-size 0.5s;
 }
 
 .nav li a.nav-link:hover {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   color: #a8a8a8;
 }
 
